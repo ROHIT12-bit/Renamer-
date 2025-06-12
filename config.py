@@ -15,7 +15,7 @@ class Config(object):
     BOT_UPTIME  = time.time()
     START_PIC   = os.environ.get("START_PIC", "https://ibb.co/pvL1RH0c")
     ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '7845335174').split()]
-    FORCE_SUB   = os.environ.get("FORCE_SUB", "-1002895952868") 
+    FORCE_SUB   = os.environ.get("FORCE_SUB", "ANIELITETELUGU") 
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002611038436"))
     
     # wes response configuration     
