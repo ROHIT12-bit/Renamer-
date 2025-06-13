@@ -80,9 +80,9 @@ Use These Keywords To Setup Custom File Name
     
     DONATE_TXT = """<b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
      
-please don't just support is good,  .
+please don't donate. we just need your support thats enough for us,  .
     
-<b>🛍 UPI ID:</b> <code>madflixoffal@axl</code> """
+<b>🛍 UPI ID:</b> <code>no please</code> """
     
     HELP_TXT = """<b>Hey</b> {}
     
